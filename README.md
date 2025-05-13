@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rasyid Naufal</h1>
+<h1 align="center">Hello World!, I'm Rasyid Naufal</h1>
 <h3 align="center">Informatics Engineering Student | Data Science | IoT & AI Enthusiast | Developer of Smart Farming Systems 🌱💡</h3>
 
 ---
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working on **Sotek (Smart Soil Health Monitoring & Irrigation System)**
 - 🧠 Interested in **IoT**, **Machine Learning**, and **AgriTech**
-- 💼 Capstone Project: AI for **Gold Price Prediction Platform** using **ARIMA & LSTM**
+- 🪙 Capstone Project: AI for **Gold Price Prediction Platform** using **ARIMA & LSTM**
 - 👨‍💻 Most of my projects are available at [github.com/Ranfl](https://github.com/Ranfl)
 - 📫 Reach me via: **rasyidnaufalsaputra03@email.com**
 
@@ -49,3 +49,14 @@
 > _I automate farms during the day 🌾, and train AI models at night 🤖_
 
 ---
+
+
+### 🌐 Let's Connect
+<p align="left">
+  <a href="https://instagram.com/ra.nfl target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rasyidnaufal/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
